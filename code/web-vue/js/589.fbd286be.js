@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkweb_vue"]=self["webpackChunkweb_vue"]||[]).push([[589],{8589:function(t,n,e){e.r(n),e.d(n,{default:function(){return l}});var u=function(){var t=this;t._self._c;return t._m(0)},s=[function(){var t=this,n=t._self._c;return n("div",{staticClass:"about"},[n("h1",[t._v("您请求的资源不存在")]),n("img",{attrs:{src:e(6682),alt:""}})])}],r={name:"404View"},a=r,c=e(1656),i=(0,c.A)(a,u,s,!1,null,null,null),l=i.exports},6682:function(t,n,e){t.exports=e.p+"img/404.458c248a.png"}}]);
+//# sourceMappingURL=589.fbd286be.js.map
